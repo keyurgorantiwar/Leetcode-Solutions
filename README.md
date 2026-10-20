@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
