@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 ## Newton's Method
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0048-rotate-image) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
