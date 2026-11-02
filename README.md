@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0047-permutations-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0506-relative-ranks) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
