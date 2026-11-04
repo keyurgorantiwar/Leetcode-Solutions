@@ -1,15 +1,75 @@
+
 class Solution {
     public String intToRoman(int num) {
-        int[] values = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
-
-        String[] symbols = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
 
         String ans = "";
 
-        for (int i = 0; i < values.length; i++) {
-            while (num >= values[i]) {
-                ans = ans + symbols[i];
-                num = num - values[i];
+        while(num > 0)
+        {
+            if(num >= 1000)
+            {
+                ans = ans + "M";
+                num = num - 1000;
+            }
+            else if(num >= 900)
+            {
+                ans = ans + "CM";
+                num = num - 900;
+            }
+            else if(num >= 500)
+            {
+                ans = ans + "D";
+                num = num - 500;
+            }
+            else if(num >= 400)
+            {
+                ans = ans + "CD";
+                num = num - 400;
+            }
+            else if(num >= 100)
+            {
+                ans = ans + "C";
+                num = num - 100;
+            }
+            else if(num >= 90)
+            {
+                ans = ans + "XC";
+                num = num - 90;
+            }
+            else if(num >= 50)
+            {
+                ans = ans + "L";
+                num = num - 50;
+            }
+            else if(num >= 40)
+            {
+                ans = ans + "XL";
+                num = num - 40;
+            }
+            else if(num >= 10)
+            {
+                ans = ans + "X";
+                num = num - 10;
+            }
+            else if(num >= 9)
+            {
+                ans = ans + "IX";
+                num = num - 9;
+            }
+            else if(num >= 5)
+            {
+                ans = ans + "V";
+                num = num - 5;
+            }
+            else if(num >= 4)
+            {
+                ans = ans + "IV";
+                num = num - 4;
+            }
+            else if(num >= 1)
+            {
+                ans = ans + "I";
+                num = num - 1;
             }
         }
 
