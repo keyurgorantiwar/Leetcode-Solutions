@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0169-majority-element](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0068-text-justification](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0068-text-justification) |
 ## Prefix Sum
 |  |
 | ------- |
