@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0057-insert-interval](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0068-text-justification) |
