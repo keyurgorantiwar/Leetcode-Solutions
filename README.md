@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -119,9 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
