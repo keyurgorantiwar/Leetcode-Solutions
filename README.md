@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
