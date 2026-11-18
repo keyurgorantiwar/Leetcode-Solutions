@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0169-majority-element](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 ## Newton's Method
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 ## Linked List
 |  |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0055-jump-game) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
