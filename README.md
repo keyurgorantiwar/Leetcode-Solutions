@@ -144,4 +144,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
