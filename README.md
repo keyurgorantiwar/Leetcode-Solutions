@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Newton's Method
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Sliding Window
 |  |
 | ------- |
