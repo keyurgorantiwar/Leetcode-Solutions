@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0169-majority-element](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,12 +154,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Keyurgorantiwar/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
